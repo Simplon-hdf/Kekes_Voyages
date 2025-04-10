@@ -10,9 +10,11 @@
 - Aeroports (**oaci**, nom, ville, pays)
 - Compagnies (**iata**, nom, num_siret)
 - Avion (**id_avion**, #iata, modele, classe, capacite)
------
+
 FK : **#**  
 PK : **pk**
 
 # MLD Schéma 
 ![Modèle Logique de Données (MLD)](notes/mld.jpg)
+
+
