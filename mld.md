@@ -1,4 +1,5 @@
-# MLD : Script : 
+# Modèle Logique de Données (MLD)
+## MLD : Script : 
 
 - Personnes (**id_Personne**, nom, prenom, dateNaiss, genre, nationalite)
 - Clients (**id_Client**; #id_Personne, email, mdp, adresse_facturation)
@@ -14,6 +15,6 @@
 FK : **#**  
 PK : **pk**
 
-# MLD Schéma 
+## MLD Schéma 
 ![Modèle Logique de Données (MLD)](notes/mld.jpg)
 
